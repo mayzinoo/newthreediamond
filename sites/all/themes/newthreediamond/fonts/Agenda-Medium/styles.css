@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Agenda-Medium';
+  src: url('Agenda-Medium.eot?#iefix') format('embedded-opentype'),  url('Agenda-Medium.otf')  format('opentype'),
+	     url('Agenda-Medium.woff') format('woff'), url('Agenda-Medium.ttf')  format('truetype'), url('Agenda-Medium.svg#Agenda-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
